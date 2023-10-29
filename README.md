@@ -31,8 +31,7 @@
 
 #
 
-<h3>鸣谢</h3>
-
+<p style="font-weight: bold; font-size: 24px;">鸣谢</p>
 本Github参考了以下仓库
 <a href="https://github.com/jiyun233">jiyun233</a>
 <a href="https://github.com/ZiAzusa">ZiAzusa</a>
