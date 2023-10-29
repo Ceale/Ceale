@@ -28,3 +28,12 @@
 
 本Github主页已有这么多人访问过了哦<br>
 <img src="https://count.getloli.com/get/@XiaohCeale" alt="访问人数" />
+
+#
+
+### 鸣谢
+
+本Github参考了以下仓库
+<a href="https://github.com/jiyun233">jiyun233</a>
+<a href="https://github.com/ZiAzusa">ZiAzusa</a>
+<a href="https://github.com/MicIsHere">MicIsHere</a>
