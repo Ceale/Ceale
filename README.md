@@ -18,12 +18,13 @@
 
 # 
 
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaohCeale&layout=compact&locale=cn&card_width=445" alt="最常用的语言">
+    <img src="https://github-readme-stats.vercel.app/api?username=XiaohCeale&theme=shadow_green&show_icons=true&locale=cn&card_width=500&include_all_commits=true&line_height=25" alt="Github数据统计">
+</div>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=XiaohCeale&theme=shadow_green&show_icons=true&locale=cn&card_width=500&include_all_commits=true&line_height=25" alt="Github数据统计">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaohCeale&layout=compact&locale=cn&card_width=445" alt="最常用的语言">
 
 #
 
-本Github主页已有这么多人访问过了哦
+本Github主页已有这么多人访问过了哦<br>
 <img src="https://count.getloli.com/get/@XiaohCeale" alt="访问人数" />
