@@ -24,4 +24,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaohCeale&layout=compact&locale=cn&card_width=445" alt="最常用的语言">
 
 #
+
+本Github主页已有这么多人访问过了哦
 <img src="https://count.getloli.com/get/@XiaohCeale" alt="访问人数" />
