@@ -1,7 +1,7 @@
 <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=900&size=28&pause=1000&vCenter=true&random=false&lines=%E8%BF%99%E9%87%8C%E6%98%AF%E5%B0%8F%E9%BB%84Ceale%EF%BC%81" alt="这里是小黄Ceale"/>
 </a>
-<div style="margin-bottom: 15px;">
+<div style="margin-bottom: 15px; text-decoration: none;">
     <a href="https://ceale.moe/" target="_blank">
         <img src="https://img.shields.io/badge/%E5%B0%8F%E9%BB%84Ceale-.moe-green?style=for-the-badge"
         alt="小黄Ceale">
