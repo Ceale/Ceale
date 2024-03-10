@@ -35,4 +35,3 @@
 本Github参考了以下仓库
 <a href="https://github.com/jiyun233">jiyun233</a>
 <a href="https://github.com/ZiAzusa">ZiAzusa</a>
-<a href="https://github.com/MicIsHere">MicIsHere</a>
