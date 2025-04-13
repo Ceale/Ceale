@@ -34,6 +34,6 @@
 #
 
 <p style="font-weight: bold; font-size: 22px;">致谢</p>
-本README参考了以下仓库
+本README参考了以下profile
 <a href="https://github.com/ZiAzusa">ZiAzusa</a>
 <a href="https://github.com/jiyun233">jiyun233</a>
